@@ -1,6 +1,6 @@
 # Learn Ruby 
-## Table of Contents
----
+## Table of Contents--
+
 ### 1.Introduction to Ruby
 - Introduction to Ruby
 - Putting the Form in Formatter
