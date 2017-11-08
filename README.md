@@ -35,4 +35,8 @@
     * until loop
     * Assignment operators
     * For loop
-    * 
+    * Inclusive and Exclusive Ranges
+    * The Loop Method(iterator)
+    * next if
+    * saving multiple values
+    *  .each iterator
