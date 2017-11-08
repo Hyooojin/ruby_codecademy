@@ -40,3 +40,9 @@
     * next if
     * saving multiple values
     *  .each iterator
+    *  .times iterator
+    *  Looping with 'While'
+    *  Looping with 'Until'
+    *  Looping with 'For'
+    *  .split
+    *  redact
