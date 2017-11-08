@@ -46,3 +46,13 @@
     *  Looping with 'For'
     *  .split
     *  redact
+
+
+### 4.Arrays_and_Hashs
+* Data structures
+    * Creating Arrays
+    * Arrays of Non-Numbers
+    * multidimensional arrays
+    * Hashes
+    * create hash
+    * Accessing Hash values
