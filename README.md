@@ -19,9 +19,20 @@
     * Or
     * Not
     * Combining Boolean Operators
-    
+
 * Thith Meanth War!
     * gets.chomp
     * .downcase!
     * .include? "a word" A control flow
     * .gsub!(/old word have to be changed/, "new word")
+
+
+
+### 3.Looping with Ruby
+* loops and iterators
+    * loop
+    * infinite loop
+    * until loop
+    * Assignment operators
+    * For loop
+    * 
